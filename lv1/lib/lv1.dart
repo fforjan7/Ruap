@@ -1,3 +1,3 @@
 String pozdrav() {
-  return ("Pozdrav iz aplikacije od Filipaaaa!");
+  return ("Pozdrav iz aplikacije od Filipa Forjana!");
 }
